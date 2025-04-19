@@ -1,0 +1,7 @@
+{
+  "name": "Pirates",
+  "description": "Pirates is a utility token used within the Pirate Station game ecosystem for in-game transactions, trading, and item ownership.",
+  "symbol": "PRT",
+  "decimals": 0,
+  "image": "https://SomeITperson.github.io/pirates_jetton/static/pirates.png"
+}
